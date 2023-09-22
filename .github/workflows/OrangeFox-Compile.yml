@@ -22,7 +22,7 @@ on:
       DEVICE_TREE:
         description: 'Custom Recovery Tree'
         required: true
-        default: 'https://github.com/Hasajapathirana/android_device_samsung_01s'
+        default: 'https://github.com/Hasajapathirana/android_device_samsung_o1s'
       DEVICE_TREE_BRANCH:
         description: 'Custom Recovery Tree Branch'
         required: true
