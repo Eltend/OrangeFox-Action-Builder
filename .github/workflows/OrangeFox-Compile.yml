@@ -22,7 +22,7 @@ on:
       DEVICE_TREE:
         description: 'Custom Recovery Tree'
         required: true
-        default: 'https://github.com/Hasajapathirana/android_device_samsung_p3s-1'
+        default: 'https://github.com/Hasajapathirana/android_device_samsung_01s'
       DEVICE_TREE_BRANCH:
         description: 'Custom Recovery Tree Branch'
         required: true
@@ -30,11 +30,11 @@ on:
       DEVICE_PATH:
         description: 'Specify your device path.'
         required: true
-        default: 'device/samsung/p3s'
+        default: 'device/samsung/o1s'
       DEVICE_NAME:
         description: 'Specify your Device Codename.'
         required: true
-        default: 'p3s'
+        default: 'o1s'
       BUILD_TARGET:
         description: 'Specify your Build Target'
         required: true
