@@ -1,3 +1,7 @@
+# Features of this Fork
+1. It has the precompiled images in the release section
+
+
 # OrangeFox Action Builder
 Compile your first custom recovery from OrangeFox Recovery Project using Github Action.
 
